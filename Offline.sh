@@ -3,7 +3,7 @@
 
 cd /swergio
 git clone https://github.com/swergio/Agent_A2CGAN.git
-git clone https://github.com/<user name>/<repository name>
+git clone https://github.com/IshmaGurca/Example.git
 
 #activate swarm
 pip install --no-cache-dir -r /Example/requirements.txt
