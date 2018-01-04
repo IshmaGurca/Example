@@ -1,0 +1,80 @@
+version: "3.3"
+services:
+  socketioserver:
+    image: ishmagurca/swergio_socketiomessageserver
+    expose:
+      - "5000"
+
+  qatrainer:
+    image: ishmagurca/swergio_client_qatrainer
+    links:
+      - socketioserver
+    depends_on:
+      - socketioserver
+      - tina
+    environment:
+      - SOCKETIOSERVER_NAME=socketioserver
+      - SOCKETIOSERVER_PORT=5000
+
+
+  tina:
+    image: ishmagurca/swergio_agent_a2cgan
+    ports:
+      - 6006:6006
+    links:
+      - socketioserver
+    depends_on:
+      - socketioserver
+    environment:
+      - SOCKETIOSERVER_NAME=socketioserver
+      - SOCKETIOSERVER_PORT=5000
+      - AGENT_NAMESPACES=QATrainer;TinaBob
+      #- WORKER_NAMESPACES = 
+      #- KNOWLEDGEBASE_NAMESPACES =  
+      - MODELSAVE_PATH=/usr/src/app/sources/Model
+      - LOG_PATH=/usr/src/app/sources/Log
+      - EXPERTDATA_PATH=/usr/src/app/sources/Data/Expert.csv
+    volumes:
+      - type: bind
+        source: ./Tina
+        target: /usr/src/app/sources
+
+
+  bob:
+    image: ishmagurca/swergio_agent_a2cgan
+    ports:
+      - 6007:6006
+    links:
+      - socketioserver
+    depends_on:
+      - socketioserver
+    environment:
+      - SOCKETIOSERVER_NAME=socketioserver
+      - SOCKETIOSERVER_PORT=5000
+      - AGENT_NAMESPACES=TinaBob
+      - WORKER_NAMESPACES=PythonEvaluation 
+      #- KNOWLEDGEBASE_NAMESPACES = 
+      - MODELSAVE_PATH=/usr/src/app/sources/Model
+      - LOG_PATH=/usr/src/app/sources/Log
+      - EXPERTDATA_PATH=/usr/src/app/sources/Data/Expert.csv
+    volumes:
+      - type: bind
+        source: ./Bob
+        target: /usr/src/app/sources
+
+
+  pythoneval:
+    image: ishmagurca/swergio_worker_pythonevaluation
+    links:
+      - socketioserver
+    depends_on:
+      - socketioserver
+      - bob
+    environment:
+      - SOCKETIOSERVER_NAME=socketioserver
+      - SOCKETIOSERVER_PORT=5000
+
+
+
+
+

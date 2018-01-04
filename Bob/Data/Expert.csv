@@ -1,0 +1,401 @@
+O_Namespace;O_Type;O_Text;A_Namespace;A_Type;A_Text;A_DoAct;ComID ;Step
+QATrainer;QUESTION;What is zero minus four?;TinaBob;QUESTION;0-4=?;1;1;1
+QATrainer;QUESTION;What is ten divided by nine?;TinaBob;QUESTION;10/9=?;1;2;1
+QATrainer;QUESTION;What is five divided by four?;TinaBob;QUESTION;5/4=?;1;3;1
+QATrainer;QUESTION;What is one times zero?;TinaBob;QUESTION;1*0=?;1;4;1
+QATrainer;QUESTION;What is two minus four?;TinaBob;QUESTION;2-4=?;1;5;1
+QATrainer;QUESTION;What is one plus one?;TinaBob;QUESTION;1+1=?;1;6;1
+QATrainer;QUESTION;What is one minus four?;TinaBob;QUESTION;1-4=?;1;7;1
+QATrainer;QUESTION;What is nine minus two?;TinaBob;QUESTION;9-2=?;1;8;1
+QATrainer;QUESTION;What is seven divided by one?;TinaBob;QUESTION;7/1=?;1;9;1
+QATrainer;QUESTION;What is seven minus eight?;TinaBob;QUESTION;7-8=?;1;10;1
+QATrainer;QUESTION;What is five minus eight?;TinaBob;QUESTION;5-8=?;1;11;1
+QATrainer;QUESTION;What is three times one?;TinaBob;QUESTION;3*1=?;1;12;1
+QATrainer;QUESTION;What is one minus five?;TinaBob;QUESTION;1-5=?;1;13;1
+QATrainer;QUESTION;What is four times three?;TinaBob;QUESTION;4*3=?;1;14;1
+QATrainer;QUESTION;What is three minus one?;TinaBob;QUESTION;3-1=?;1;15;1
+QATrainer;QUESTION;What is six minus eight?;TinaBob;QUESTION;6-8=?;1;16;1
+QATrainer;QUESTION;What is zero divided by ten?;TinaBob;QUESTION;0/10=?;1;17;1
+QATrainer;QUESTION;What is two minus nine?;TinaBob;QUESTION;2-9=?;1;18;1
+QATrainer;QUESTION;What is eight divided by eight?;TinaBob;QUESTION;8/8=?;1;19;1
+QATrainer;QUESTION;What is ten minus three?;TinaBob;QUESTION;10-3=?;1;20;1
+QATrainer;QUESTION;What is two minus five?;TinaBob;QUESTION;2-5=?;1;21;1
+QATrainer;QUESTION;What is nine minus eight?;TinaBob;QUESTION;9-8=?;1;22;1
+QATrainer;QUESTION;What is three plus one?;TinaBob;QUESTION;3+1=?;1;23;1
+QATrainer;QUESTION;What is six plus six?;TinaBob;QUESTION;6+6=?;1;24;1
+QATrainer;QUESTION;What is four times two?;TinaBob;QUESTION;4*2=?;1;25;1
+QATrainer;QUESTION;What is eight divided by three?;TinaBob;QUESTION;8/3=?;1;26;1
+QATrainer;QUESTION;What is four plus seven?;TinaBob;QUESTION;4+7=?;1;27;1
+QATrainer;QUESTION;What is zero plus one?;TinaBob;QUESTION;0+1=?;1;28;1
+QATrainer;QUESTION;What is ten plus seven?;TinaBob;QUESTION;10+7=?;1;29;1
+QATrainer;QUESTION;What is two plus eight?;TinaBob;QUESTION;2+8=?;1;30;1
+QATrainer;QUESTION;What is nine minus zero?;TinaBob;QUESTION;9-0=?;1;31;1
+QATrainer;QUESTION;What is nine minus two?;TinaBob;QUESTION;9-2=?;1;32;1
+QATrainer;QUESTION;What is four minus five?;TinaBob;QUESTION;4-5=?;1;33;1
+QATrainer;QUESTION;What is six times one?;TinaBob;QUESTION;6*1=?;1;34;1
+QATrainer;QUESTION;What is six minus nine?;TinaBob;QUESTION;6-9=?;1;35;1
+QATrainer;QUESTION;What is eight plus six?;TinaBob;QUESTION;8+6=?;1;36;1
+QATrainer;QUESTION;What is eight divided by ten?;TinaBob;QUESTION;8/10=?;1;37;1
+QATrainer;QUESTION;What is four minus four?;TinaBob;QUESTION;4-4=?;1;38;1
+QATrainer;QUESTION;What is one divided by eight?;TinaBob;QUESTION;1/8=?;1;39;1
+QATrainer;QUESTION;What is seven times seven?;TinaBob;QUESTION;7*7=?;1;40;1
+QATrainer;QUESTION;What is six divided by four?;TinaBob;QUESTION;6/4=?;1;41;1
+QATrainer;QUESTION;What is six divided by zero?;TinaBob;QUESTION;6/0=?;1;42;1
+QATrainer;QUESTION;What is six divided by six?;TinaBob;QUESTION;6/6=?;1;43;1
+QATrainer;QUESTION;What is zero divided by five?;TinaBob;QUESTION;0/5=?;1;44;1
+QATrainer;QUESTION;What is eight divided by six?;TinaBob;QUESTION;8/6=?;1;45;1
+QATrainer;QUESTION;What is six minus one?;TinaBob;QUESTION;6-1=?;1;46;1
+QATrainer;QUESTION;What is three plus eight?;TinaBob;QUESTION;3+8=?;1;47;1
+QATrainer;QUESTION;What is two divided by five?;TinaBob;QUESTION;2/5=?;1;48;1
+QATrainer;QUESTION;What is three plus one?;TinaBob;QUESTION;3+1=?;1;49;1
+QATrainer;QUESTION;What is six divided by zero?;TinaBob;QUESTION;6/0=?;1;50;1
+QATrainer;QUESTION;What is two times ten?;TinaBob;QUESTION;2*10=?;1;51;1
+QATrainer;QUESTION;What is nine minus nine?;TinaBob;QUESTION;9-9=?;1;52;1
+QATrainer;QUESTION;What is five times seven?;TinaBob;QUESTION;5*7=?;1;53;1
+QATrainer;QUESTION;What is eight times seven?;TinaBob;QUESTION;8*7=?;1;54;1
+QATrainer;QUESTION;What is three times zero?;TinaBob;QUESTION;3*0=?;1;55;1
+QATrainer;QUESTION;What is nine plus ten?;TinaBob;QUESTION;9+10=?;1;56;1
+QATrainer;QUESTION;What is five divided by two?;TinaBob;QUESTION;5/2=?;1;57;1
+QATrainer;QUESTION;What is eight plus nine?;TinaBob;QUESTION;8+9=?;1;58;1
+QATrainer;QUESTION;What is five minus one?;TinaBob;QUESTION;5-1=?;1;59;1
+QATrainer;QUESTION;What is five times zero?;TinaBob;QUESTION;5*0=?;1;60;1
+QATrainer;QUESTION;What is seven times one?;TinaBob;QUESTION;7*1=?;1;61;1
+QATrainer;QUESTION;What is two times six?;TinaBob;QUESTION;2*6=?;1;62;1
+QATrainer;QUESTION;What is nine minus two?;TinaBob;QUESTION;9-2=?;1;63;1
+QATrainer;QUESTION;What is four plus four?;TinaBob;QUESTION;4+4=?;1;64;1
+QATrainer;QUESTION;What is eight times four?;TinaBob;QUESTION;8*4=?;1;65;1
+QATrainer;QUESTION;What is six divided by five?;TinaBob;QUESTION;6/5=?;1;66;1
+QATrainer;QUESTION;What is nine divided by one?;TinaBob;QUESTION;9/1=?;1;67;1
+QATrainer;QUESTION;What is zero plus four?;TinaBob;QUESTION;0+4=?;1;68;1
+QATrainer;QUESTION;What is two times four?;TinaBob;QUESTION;2*4=?;1;69;1
+QATrainer;QUESTION;What is one plus five?;TinaBob;QUESTION;1+5=?;1;70;1
+QATrainer;QUESTION;What is seven minus three?;TinaBob;QUESTION;7-3=?;1;71;1
+QATrainer;QUESTION;What is two divided by eight?;TinaBob;QUESTION;2/8=?;1;72;1
+QATrainer;QUESTION;What is zero divided by ten?;TinaBob;QUESTION;0/10=?;1;73;1
+QATrainer;QUESTION;What is two divided by ten?;TinaBob;QUESTION;2/10=?;1;74;1
+QATrainer;QUESTION;What is one minus zero?;TinaBob;QUESTION;1-0=?;1;75;1
+QATrainer;QUESTION;What is nine minus eight?;TinaBob;QUESTION;9-8=?;1;76;1
+QATrainer;QUESTION;What is three plus two?;TinaBob;QUESTION;3+2=?;1;77;1
+QATrainer;QUESTION;What is five minus nine?;TinaBob;QUESTION;5-9=?;1;78;1
+QATrainer;QUESTION;What is six plus five?;TinaBob;QUESTION;6+5=?;1;79;1
+QATrainer;QUESTION;What is ten times three?;TinaBob;QUESTION;10*3=?;1;80;1
+QATrainer;QUESTION;What is two plus zero?;TinaBob;QUESTION;2+0=?;1;81;1
+QATrainer;QUESTION;What is zero plus zero?;TinaBob;QUESTION;0+0=?;1;82;1
+QATrainer;QUESTION;What is zero times six?;TinaBob;QUESTION;0*6=?;1;83;1
+QATrainer;QUESTION;What is six plus ten?;TinaBob;QUESTION;6+10=?;1;84;1
+QATrainer;QUESTION;What is three divided by four?;TinaBob;QUESTION;3/4=?;1;85;1
+QATrainer;QUESTION;What is ten times five?;TinaBob;QUESTION;10*5=?;1;86;1
+QATrainer;QUESTION;What is seven divided by nine?;TinaBob;QUESTION;7/9=?;1;87;1
+QATrainer;QUESTION;What is three plus eight?;TinaBob;QUESTION;3+8=?;1;88;1
+QATrainer;QUESTION;What is one minus eight?;TinaBob;QUESTION;1-8=?;1;89;1
+QATrainer;QUESTION;What is three minus six?;TinaBob;QUESTION;3-6=?;1;90;1
+QATrainer;QUESTION;What is five divided by seven?;TinaBob;QUESTION;5/7=?;1;91;1
+QATrainer;QUESTION;What is three plus one?;TinaBob;QUESTION;3+1=?;1;92;1
+QATrainer;QUESTION;What is two divided by four?;TinaBob;QUESTION;2/4=?;1;93;1
+QATrainer;QUESTION;What is four times five?;TinaBob;QUESTION;4*5=?;1;94;1
+QATrainer;QUESTION;What is nine times three?;TinaBob;QUESTION;9*3=?;1;95;1
+QATrainer;QUESTION;What is six plus five?;TinaBob;QUESTION;6+5=?;1;96;1
+QATrainer;QUESTION;What is seven divided by four?;TinaBob;QUESTION;7/4=?;1;97;1
+QATrainer;QUESTION;What is two plus one?;TinaBob;QUESTION;2+1=?;1;98;1
+QATrainer;QUESTION;What is one divided by one?;TinaBob;QUESTION;1/1=?;1;99;1
+QATrainer;QUESTION;What is eight divided by nine?;TinaBob;QUESTION;8/9=?;1;100;1
+TinaBob;QUESTION;0-4=?;PythonEvaluation;QUESTION;minus(0,4);1;1;2
+TinaBob;QUESTION;10/9=?;PythonEvaluation;QUESTION;divided(10,9);1;2;2
+TinaBob;QUESTION;5/4=?;PythonEvaluation;QUESTION;divided(5,4);1;3;2
+TinaBob;QUESTION;1*0=?;PythonEvaluation;QUESTION;times(1,0);1;4;2
+TinaBob;QUESTION;2-4=?;PythonEvaluation;QUESTION;minus(2,4);1;5;2
+TinaBob;QUESTION;1+1=?;PythonEvaluation;QUESTION;plus(1,1);1;6;2
+TinaBob;QUESTION;1-4=?;PythonEvaluation;QUESTION;minus(1,4);1;7;2
+TinaBob;QUESTION;9-2=?;PythonEvaluation;QUESTION;minus(9,2);1;8;2
+TinaBob;QUESTION;7/1=?;PythonEvaluation;QUESTION;divided(7,1);1;9;2
+TinaBob;QUESTION;7-8=?;PythonEvaluation;QUESTION;minus(7,8);1;10;2
+TinaBob;QUESTION;5-8=?;PythonEvaluation;QUESTION;minus(5,8);1;11;2
+TinaBob;QUESTION;3*1=?;PythonEvaluation;QUESTION;times(3,1);1;12;2
+TinaBob;QUESTION;1-5=?;PythonEvaluation;QUESTION;minus(1,5);1;13;2
+TinaBob;QUESTION;4*3=?;PythonEvaluation;QUESTION;times(4,3);1;14;2
+TinaBob;QUESTION;3-1=?;PythonEvaluation;QUESTION;minus(3,1);1;15;2
+TinaBob;QUESTION;6-8=?;PythonEvaluation;QUESTION;minus(6,8);1;16;2
+TinaBob;QUESTION;0/10=?;PythonEvaluation;QUESTION;divided(0,10);1;17;2
+TinaBob;QUESTION;2-9=?;PythonEvaluation;QUESTION;minus(2,9);1;18;2
+TinaBob;QUESTION;8/8=?;PythonEvaluation;QUESTION;divided(8,8);1;19;2
+TinaBob;QUESTION;10-3=?;PythonEvaluation;QUESTION;minus(10,3);1;20;2
+TinaBob;QUESTION;2-5=?;PythonEvaluation;QUESTION;minus(2,5);1;21;2
+TinaBob;QUESTION;9-8=?;PythonEvaluation;QUESTION;minus(9,8);1;22;2
+TinaBob;QUESTION;3+1=?;PythonEvaluation;QUESTION;plus(3,1);1;23;2
+TinaBob;QUESTION;6+6=?;PythonEvaluation;QUESTION;plus(6,6);1;24;2
+TinaBob;QUESTION;4*2=?;PythonEvaluation;QUESTION;times(4,2);1;25;2
+TinaBob;QUESTION;8/3=?;PythonEvaluation;QUESTION;divided(8,3);1;26;2
+TinaBob;QUESTION;4+7=?;PythonEvaluation;QUESTION;plus(4,7);1;27;2
+TinaBob;QUESTION;0+1=?;PythonEvaluation;QUESTION;plus(0,1);1;28;2
+TinaBob;QUESTION;10+7=?;PythonEvaluation;QUESTION;plus(10,7);1;29;2
+TinaBob;QUESTION;2+8=?;PythonEvaluation;QUESTION;plus(2,8);1;30;2
+TinaBob;QUESTION;9-0=?;PythonEvaluation;QUESTION;minus(9,0);1;31;2
+TinaBob;QUESTION;9-2=?;PythonEvaluation;QUESTION;minus(9,2);1;32;2
+TinaBob;QUESTION;4-5=?;PythonEvaluation;QUESTION;minus(4,5);1;33;2
+TinaBob;QUESTION;6*1=?;PythonEvaluation;QUESTION;times(6,1);1;34;2
+TinaBob;QUESTION;6-9=?;PythonEvaluation;QUESTION;minus(6,9);1;35;2
+TinaBob;QUESTION;8+6=?;PythonEvaluation;QUESTION;plus(8,6);1;36;2
+TinaBob;QUESTION;8/10=?;PythonEvaluation;QUESTION;divided(8,10);1;37;2
+TinaBob;QUESTION;4-4=?;PythonEvaluation;QUESTION;minus(4,4);1;38;2
+TinaBob;QUESTION;1/8=?;PythonEvaluation;QUESTION;divided(1,8);1;39;2
+TinaBob;QUESTION;7*7=?;PythonEvaluation;QUESTION;times(7,7);1;40;2
+TinaBob;QUESTION;6/4=?;PythonEvaluation;QUESTION;divided(6,4);1;41;2
+TinaBob;QUESTION;6/0=?;PythonEvaluation;QUESTION;divided(6,0);1;42;2
+TinaBob;QUESTION;6/6=?;PythonEvaluation;QUESTION;divided(6,6);1;43;2
+TinaBob;QUESTION;0/5=?;PythonEvaluation;QUESTION;divided(0,5);1;44;2
+TinaBob;QUESTION;8/6=?;PythonEvaluation;QUESTION;divided(8,6);1;45;2
+TinaBob;QUESTION;6-1=?;PythonEvaluation;QUESTION;minus(6,1);1;46;2
+TinaBob;QUESTION;3+8=?;PythonEvaluation;QUESTION;plus(3,8);1;47;2
+TinaBob;QUESTION;2/5=?;PythonEvaluation;QUESTION;divided(2,5);1;48;2
+TinaBob;QUESTION;3+1=?;PythonEvaluation;QUESTION;plus(3,1);1;49;2
+TinaBob;QUESTION;6/0=?;PythonEvaluation;QUESTION;divided(6,0);1;50;2
+TinaBob;QUESTION;2*10=?;PythonEvaluation;QUESTION;times(2,10);1;51;2
+TinaBob;QUESTION;9-9=?;PythonEvaluation;QUESTION;minus(9,9);1;52;2
+TinaBob;QUESTION;5*7=?;PythonEvaluation;QUESTION;times(5,7);1;53;2
+TinaBob;QUESTION;8*7=?;PythonEvaluation;QUESTION;times(8,7);1;54;2
+TinaBob;QUESTION;3*0=?;PythonEvaluation;QUESTION;times(3,0);1;55;2
+TinaBob;QUESTION;9+10=?;PythonEvaluation;QUESTION;plus(9,10);1;56;2
+TinaBob;QUESTION;5/2=?;PythonEvaluation;QUESTION;divided(5,2);1;57;2
+TinaBob;QUESTION;8+9=?;PythonEvaluation;QUESTION;plus(8,9);1;58;2
+TinaBob;QUESTION;5-1=?;PythonEvaluation;QUESTION;minus(5,1);1;59;2
+TinaBob;QUESTION;5*0=?;PythonEvaluation;QUESTION;times(5,0);1;60;2
+TinaBob;QUESTION;7*1=?;PythonEvaluation;QUESTION;times(7,1);1;61;2
+TinaBob;QUESTION;2*6=?;PythonEvaluation;QUESTION;times(2,6);1;62;2
+TinaBob;QUESTION;9-2=?;PythonEvaluation;QUESTION;minus(9,2);1;63;2
+TinaBob;QUESTION;4+4=?;PythonEvaluation;QUESTION;plus(4,4);1;64;2
+TinaBob;QUESTION;8*4=?;PythonEvaluation;QUESTION;times(8,4);1;65;2
+TinaBob;QUESTION;6/5=?;PythonEvaluation;QUESTION;divided(6,5);1;66;2
+TinaBob;QUESTION;9/1=?;PythonEvaluation;QUESTION;divided(9,1);1;67;2
+TinaBob;QUESTION;0+4=?;PythonEvaluation;QUESTION;plus(0,4);1;68;2
+TinaBob;QUESTION;2*4=?;PythonEvaluation;QUESTION;times(2,4);1;69;2
+TinaBob;QUESTION;1+5=?;PythonEvaluation;QUESTION;plus(1,5);1;70;2
+TinaBob;QUESTION;7-3=?;PythonEvaluation;QUESTION;minus(7,3);1;71;2
+TinaBob;QUESTION;2/8=?;PythonEvaluation;QUESTION;divided(2,8);1;72;2
+TinaBob;QUESTION;0/10=?;PythonEvaluation;QUESTION;divided(0,10);1;73;2
+TinaBob;QUESTION;2/10=?;PythonEvaluation;QUESTION;divided(2,10);1;74;2
+TinaBob;QUESTION;1-0=?;PythonEvaluation;QUESTION;minus(1,0);1;75;2
+TinaBob;QUESTION;9-8=?;PythonEvaluation;QUESTION;minus(9,8);1;76;2
+TinaBob;QUESTION;3+2=?;PythonEvaluation;QUESTION;plus(3,2);1;77;2
+TinaBob;QUESTION;5-9=?;PythonEvaluation;QUESTION;minus(5,9);1;78;2
+TinaBob;QUESTION;6+5=?;PythonEvaluation;QUESTION;plus(6,5);1;79;2
+TinaBob;QUESTION;10*3=?;PythonEvaluation;QUESTION;times(10,3);1;80;2
+TinaBob;QUESTION;2+0=?;PythonEvaluation;QUESTION;plus(2,0);1;81;2
+TinaBob;QUESTION;0+0=?;PythonEvaluation;QUESTION;plus(0,0);1;82;2
+TinaBob;QUESTION;0*6=?;PythonEvaluation;QUESTION;times(0,6);1;83;2
+TinaBob;QUESTION;6+10=?;PythonEvaluation;QUESTION;plus(6,10);1;84;2
+TinaBob;QUESTION;3/4=?;PythonEvaluation;QUESTION;divided(3,4);1;85;2
+TinaBob;QUESTION;10*5=?;PythonEvaluation;QUESTION;times(10,5);1;86;2
+TinaBob;QUESTION;7/9=?;PythonEvaluation;QUESTION;divided(7,9);1;87;2
+TinaBob;QUESTION;3+8=?;PythonEvaluation;QUESTION;plus(3,8);1;88;2
+TinaBob;QUESTION;1-8=?;PythonEvaluation;QUESTION;minus(1,8);1;89;2
+TinaBob;QUESTION;3-6=?;PythonEvaluation;QUESTION;minus(3,6);1;90;2
+TinaBob;QUESTION;5/7=?;PythonEvaluation;QUESTION;divided(5,7);1;91;2
+TinaBob;QUESTION;3+1=?;PythonEvaluation;QUESTION;plus(3,1);1;92;2
+TinaBob;QUESTION;2/4=?;PythonEvaluation;QUESTION;divided(2,4);1;93;2
+TinaBob;QUESTION;4*5=?;PythonEvaluation;QUESTION;times(4,5);1;94;2
+TinaBob;QUESTION;9*3=?;PythonEvaluation;QUESTION;times(9,3);1;95;2
+TinaBob;QUESTION;6+5=?;PythonEvaluation;QUESTION;plus(6,5);1;96;2
+TinaBob;QUESTION;7/4=?;PythonEvaluation;QUESTION;divided(7,4);1;97;2
+TinaBob;QUESTION;2+1=?;PythonEvaluation;QUESTION;plus(2,1);1;98;2
+TinaBob;QUESTION;1/1=?;PythonEvaluation;QUESTION;divided(1,1);1;99;2
+TinaBob;QUESTION;8/9=?;PythonEvaluation;QUESTION;divided(8,9);1;100;2
+PythonEvaluation;ANSWER;-4;TinaBob;ANSWER;-4;1;1;3
+PythonEvaluation;ANSWER;1.1111111111;TinaBob;ANSWER;1.1111111111;1;2;3
+PythonEvaluation;ANSWER;1.25;TinaBob;ANSWER;1.25;1;3;3
+PythonEvaluation;ANSWER;0;TinaBob;ANSWER;0;1;4;3
+PythonEvaluation;ANSWER;-2;TinaBob;ANSWER;-2;1;5;3
+PythonEvaluation;ANSWER;2;TinaBob;ANSWER;2;1;6;3
+PythonEvaluation;ANSWER;-3;TinaBob;ANSWER;-3;1;7;3
+PythonEvaluation;ANSWER;7;TinaBob;ANSWER;7;1;8;3
+PythonEvaluation;ANSWER;7;TinaBob;ANSWER;7;1;9;3
+PythonEvaluation;ANSWER;-1;TinaBob;ANSWER;-1;1;10;3
+PythonEvaluation;ANSWER;-3;TinaBob;ANSWER;-3;1;11;3
+PythonEvaluation;ANSWER;3;TinaBob;ANSWER;3;1;12;3
+PythonEvaluation;ANSWER;-4;TinaBob;ANSWER;-4;1;13;3
+PythonEvaluation;ANSWER;12;TinaBob;ANSWER;12;1;14;3
+PythonEvaluation;ANSWER;2;TinaBob;ANSWER;2;1;15;3
+PythonEvaluation;ANSWER;-2;TinaBob;ANSWER;-2;1;16;3
+PythonEvaluation;ANSWER;0;TinaBob;ANSWER;0;1;17;3
+PythonEvaluation;ANSWER;-7;TinaBob;ANSWER;-7;1;18;3
+PythonEvaluation;ANSWER;1;TinaBob;ANSWER;1;1;19;3
+PythonEvaluation;ANSWER;7;TinaBob;ANSWER;7;1;20;3
+PythonEvaluation;ANSWER;-3;TinaBob;ANSWER;-3;1;21;3
+PythonEvaluation;ANSWER;1;TinaBob;ANSWER;1;1;22;3
+PythonEvaluation;ANSWER;4;TinaBob;ANSWER;4;1;23;3
+PythonEvaluation;ANSWER;12;TinaBob;ANSWER;12;1;24;3
+PythonEvaluation;ANSWER;8;TinaBob;ANSWER;8;1;25;3
+PythonEvaluation;ANSWER;2.6666666667;TinaBob;ANSWER;2.6666666667;1;26;3
+PythonEvaluation;ANSWER;11;TinaBob;ANSWER;11;1;27;3
+PythonEvaluation;ANSWER;1;TinaBob;ANSWER;1;1;28;3
+PythonEvaluation;ANSWER;17;TinaBob;ANSWER;17;1;29;3
+PythonEvaluation;ANSWER;10;TinaBob;ANSWER;10;1;30;3
+PythonEvaluation;ANSWER;9;TinaBob;ANSWER;9;1;31;3
+PythonEvaluation;ANSWER;7;TinaBob;ANSWER;7;1;32;3
+PythonEvaluation;ANSWER;-1;TinaBob;ANSWER;-1;1;33;3
+PythonEvaluation;ANSWER;6;TinaBob;ANSWER;6;1;34;3
+PythonEvaluation;ANSWER;-3;TinaBob;ANSWER;-3;1;35;3
+PythonEvaluation;ANSWER;14;TinaBob;ANSWER;14;1;36;3
+PythonEvaluation;ANSWER;0.8;TinaBob;ANSWER;0.8;1;37;3
+PythonEvaluation;ANSWER;0;TinaBob;ANSWER;0;1;38;3
+PythonEvaluation;ANSWER;125;TinaBob;ANSWER;125;1;39;3
+PythonEvaluation;ANSWER;49;TinaBob;ANSWER;49;1;40;3
+PythonEvaluation;ANSWER;1.5;TinaBob;ANSWER;1.5;1;41;3
+PythonEvaluation;ANSWER;undefined;TinaBob;ANSWER;undefined;1;42;3
+PythonEvaluation;ANSWER;1;TinaBob;ANSWER;1;1;43;3
+PythonEvaluation;ANSWER;0;TinaBob;ANSWER;0;1;44;3
+PythonEvaluation;ANSWER;1.3333333333;TinaBob;ANSWER;1.3333333333;1;45;3
+PythonEvaluation;ANSWER;5;TinaBob;ANSWER;5;1;46;3
+PythonEvaluation;ANSWER;11;TinaBob;ANSWER;11;1;47;3
+PythonEvaluation;ANSWER;0.4;TinaBob;ANSWER;0.4;1;48;3
+PythonEvaluation;ANSWER;4;TinaBob;ANSWER;4;1;49;3
+PythonEvaluation;ANSWER;undefined;TinaBob;ANSWER;undefined;1;50;3
+PythonEvaluation;ANSWER;20;TinaBob;ANSWER;20;1;51;3
+PythonEvaluation;ANSWER;0;TinaBob;ANSWER;0;1;52;3
+PythonEvaluation;ANSWER;35;TinaBob;ANSWER;35;1;53;3
+PythonEvaluation;ANSWER;56;TinaBob;ANSWER;56;1;54;3
+PythonEvaluation;ANSWER;0;TinaBob;ANSWER;0;1;55;3
+PythonEvaluation;ANSWER;19;TinaBob;ANSWER;19;1;56;3
+PythonEvaluation;ANSWER;2.5;TinaBob;ANSWER;2.5;1;57;3
+PythonEvaluation;ANSWER;17;TinaBob;ANSWER;17;1;58;3
+PythonEvaluation;ANSWER;4;TinaBob;ANSWER;4;1;59;3
+PythonEvaluation;ANSWER;0;TinaBob;ANSWER;0;1;60;3
+PythonEvaluation;ANSWER;7;TinaBob;ANSWER;7;1;61;3
+PythonEvaluation;ANSWER;12;TinaBob;ANSWER;12;1;62;3
+PythonEvaluation;ANSWER;7;TinaBob;ANSWER;7;1;63;3
+PythonEvaluation;ANSWER;8;TinaBob;ANSWER;8;1;64;3
+PythonEvaluation;ANSWER;32;TinaBob;ANSWER;32;1;65;3
+PythonEvaluation;ANSWER;1.2;TinaBob;ANSWER;1.2;1;66;3
+PythonEvaluation;ANSWER;9;TinaBob;ANSWER;9;1;67;3
+PythonEvaluation;ANSWER;4;TinaBob;ANSWER;4;1;68;3
+PythonEvaluation;ANSWER;8;TinaBob;ANSWER;8;1;69;3
+PythonEvaluation;ANSWER;6;TinaBob;ANSWER;6;1;70;3
+PythonEvaluation;ANSWER;4;TinaBob;ANSWER;4;1;71;3
+PythonEvaluation;ANSWER;0.25;TinaBob;ANSWER;0.25;1;72;3
+PythonEvaluation;ANSWER;0;TinaBob;ANSWER;0;1;73;3
+PythonEvaluation;ANSWER;0.2;TinaBob;ANSWER;0.2;1;74;3
+PythonEvaluation;ANSWER;1;TinaBob;ANSWER;1;1;75;3
+PythonEvaluation;ANSWER;1;TinaBob;ANSWER;1;1;76;3
+PythonEvaluation;ANSWER;5;TinaBob;ANSWER;5;1;77;3
+PythonEvaluation;ANSWER;-4;TinaBob;ANSWER;-4;1;78;3
+PythonEvaluation;ANSWER;11;TinaBob;ANSWER;11;1;79;3
+PythonEvaluation;ANSWER;30;TinaBob;ANSWER;30;1;80;3
+PythonEvaluation;ANSWER;2;TinaBob;ANSWER;2;1;81;3
+PythonEvaluation;ANSWER;0;TinaBob;ANSWER;0;1;82;3
+PythonEvaluation;ANSWER;0;TinaBob;ANSWER;0;1;83;3
+PythonEvaluation;ANSWER;16;TinaBob;ANSWER;16;1;84;3
+PythonEvaluation;ANSWER;0.75;TinaBob;ANSWER;0.75;1;85;3
+PythonEvaluation;ANSWER;50;TinaBob;ANSWER;50;1;86;3
+PythonEvaluation;ANSWER;0.7777777778;TinaBob;ANSWER;0.7777777778;1;87;3
+PythonEvaluation;ANSWER;11;TinaBob;ANSWER;11;1;88;3
+PythonEvaluation;ANSWER;-7;TinaBob;ANSWER;-7;1;89;3
+PythonEvaluation;ANSWER;-3;TinaBob;ANSWER;-3;1;90;3
+PythonEvaluation;ANSWER;0.7142857143;TinaBob;ANSWER;0.7142857143;1;91;3
+PythonEvaluation;ANSWER;4;TinaBob;ANSWER;4;1;92;3
+PythonEvaluation;ANSWER;0.5;TinaBob;ANSWER;0.5;1;93;3
+PythonEvaluation;ANSWER;20;TinaBob;ANSWER;20;1;94;3
+PythonEvaluation;ANSWER;27;TinaBob;ANSWER;27;1;95;3
+PythonEvaluation;ANSWER;11;TinaBob;ANSWER;11;1;96;3
+PythonEvaluation;ANSWER;1.75;TinaBob;ANSWER;1.75;1;97;3
+PythonEvaluation;ANSWER;3;TinaBob;ANSWER;3;1;98;3
+PythonEvaluation;ANSWER;1;TinaBob;ANSWER;1;1;99;3
+PythonEvaluation;ANSWER;0.8888888889;TinaBob;ANSWER;0.8888888889;1;100;3
+TinaBob;ANSWER;-4;QATrainer;ANSWER;-4;1;1;4
+TinaBob;ANSWER;1.1111111111;QATrainer;ANSWER;1;1;2;4
+TinaBob;ANSWER;1.25;QATrainer;ANSWER;1;1;3;4
+TinaBob;ANSWER;0;QATrainer;ANSWER;0;1;4;4
+TinaBob;ANSWER;-2;QATrainer;ANSWER;-2;1;5;4
+TinaBob;ANSWER;2;QATrainer;ANSWER;2;1;6;4
+TinaBob;ANSWER;-3;QATrainer;ANSWER;-3;1;7;4
+TinaBob;ANSWER;7;QATrainer;ANSWER;7;1;8;4
+TinaBob;ANSWER;7;QATrainer;ANSWER;7;1;9;4
+TinaBob;ANSWER;-1;QATrainer;ANSWER;-1;1;10;4
+TinaBob;ANSWER;-3;QATrainer;ANSWER;-3;1;11;4
+TinaBob;ANSWER;3;QATrainer;ANSWER;3;1;12;4
+TinaBob;ANSWER;-4;QATrainer;ANSWER;-4;1;13;4
+TinaBob;ANSWER;12;QATrainer;ANSWER;12;1;14;4
+TinaBob;ANSWER;2;QATrainer;ANSWER;2;1;15;4
+TinaBob;ANSWER;-2;QATrainer;ANSWER;-2;1;16;4
+TinaBob;ANSWER;0;QATrainer;ANSWER;0;1;17;4
+TinaBob;ANSWER;-7;QATrainer;ANSWER;-7;1;18;4
+TinaBob;ANSWER;1;QATrainer;ANSWER;1;1;19;4
+TinaBob;ANSWER;7;QATrainer;ANSWER;7;1;20;4
+TinaBob;ANSWER;-3;QATrainer;ANSWER;-3;1;21;4
+TinaBob;ANSWER;1;QATrainer;ANSWER;1;1;22;4
+TinaBob;ANSWER;4;QATrainer;ANSWER;4;1;23;4
+TinaBob;ANSWER;12;QATrainer;ANSWER;12;1;24;4
+TinaBob;ANSWER;8;QATrainer;ANSWER;8;1;25;4
+TinaBob;ANSWER;2.6666666667;QATrainer;ANSWER;2;1;26;4
+TinaBob;ANSWER;11;QATrainer;ANSWER;11;1;27;4
+TinaBob;ANSWER;1;QATrainer;ANSWER;1;1;28;4
+TinaBob;ANSWER;17;QATrainer;ANSWER;17;1;29;4
+TinaBob;ANSWER;10;QATrainer;ANSWER;10;1;30;4
+TinaBob;ANSWER;9;QATrainer;ANSWER;9;1;31;4
+TinaBob;ANSWER;7;QATrainer;ANSWER;7;1;32;4
+TinaBob;ANSWER;-1;QATrainer;ANSWER;-1;1;33;4
+TinaBob;ANSWER;6;QATrainer;ANSWER;6;1;34;4
+TinaBob;ANSWER;-3;QATrainer;ANSWER;-3;1;35;4
+TinaBob;ANSWER;14;QATrainer;ANSWER;14;1;36;4
+TinaBob;ANSWER;0.8;QATrainer;ANSWER;0;1;37;4
+TinaBob;ANSWER;0;QATrainer;ANSWER;0;1;38;4
+TinaBob;ANSWER;125;QATrainer;ANSWER;0;1;39;4
+TinaBob;ANSWER;49;QATrainer;ANSWER;49;1;40;4
+TinaBob;ANSWER;1.5;QATrainer;ANSWER;1;1;41;4
+TinaBob;ANSWER;undefined;QATrainer;ANSWER;undefined;1;42;4
+TinaBob;ANSWER;1;QATrainer;ANSWER;1;1;43;4
+TinaBob;ANSWER;0;QATrainer;ANSWER;0;1;44;4
+TinaBob;ANSWER;1.3333333333;QATrainer;ANSWER;1;1;45;4
+TinaBob;ANSWER;5;QATrainer;ANSWER;5;1;46;4
+TinaBob;ANSWER;11;QATrainer;ANSWER;11;1;47;4
+TinaBob;ANSWER;0.4;QATrainer;ANSWER;0;1;48;4
+TinaBob;ANSWER;4;QATrainer;ANSWER;4;1;49;4
+TinaBob;ANSWER;undefined;QATrainer;ANSWER;undefined;1;50;4
+TinaBob;ANSWER;20;QATrainer;ANSWER;20;1;51;4
+TinaBob;ANSWER;0;QATrainer;ANSWER;0;1;52;4
+TinaBob;ANSWER;35;QATrainer;ANSWER;35;1;53;4
+TinaBob;ANSWER;56;QATrainer;ANSWER;56;1;54;4
+TinaBob;ANSWER;0;QATrainer;ANSWER;0;1;55;4
+TinaBob;ANSWER;19;QATrainer;ANSWER;19;1;56;4
+TinaBob;ANSWER;2.5;QATrainer;ANSWER;2;1;57;4
+TinaBob;ANSWER;17;QATrainer;ANSWER;17;1;58;4
+TinaBob;ANSWER;4;QATrainer;ANSWER;4;1;59;4
+TinaBob;ANSWER;0;QATrainer;ANSWER;0;1;60;4
+TinaBob;ANSWER;7;QATrainer;ANSWER;7;1;61;4
+TinaBob;ANSWER;12;QATrainer;ANSWER;12;1;62;4
+TinaBob;ANSWER;7;QATrainer;ANSWER;7;1;63;4
+TinaBob;ANSWER;8;QATrainer;ANSWER;8;1;64;4
+TinaBob;ANSWER;32;QATrainer;ANSWER;32;1;65;4
+TinaBob;ANSWER;1.2;QATrainer;ANSWER;1;1;66;4
+TinaBob;ANSWER;9;QATrainer;ANSWER;9;1;67;4
+TinaBob;ANSWER;4;QATrainer;ANSWER;4;1;68;4
+TinaBob;ANSWER;8;QATrainer;ANSWER;8;1;69;4
+TinaBob;ANSWER;6;QATrainer;ANSWER;6;1;70;4
+TinaBob;ANSWER;4;QATrainer;ANSWER;4;1;71;4
+TinaBob;ANSWER;0.25;QATrainer;ANSWER;0;1;72;4
+TinaBob;ANSWER;0;QATrainer;ANSWER;0;1;73;4
+TinaBob;ANSWER;0.2;QATrainer;ANSWER;0;1;74;4
+TinaBob;ANSWER;1;QATrainer;ANSWER;1;1;75;4
+TinaBob;ANSWER;1;QATrainer;ANSWER;1;1;76;4
+TinaBob;ANSWER;5;QATrainer;ANSWER;5;1;77;4
+TinaBob;ANSWER;-4;QATrainer;ANSWER;-4;1;78;4
+TinaBob;ANSWER;11;QATrainer;ANSWER;11;1;79;4
+TinaBob;ANSWER;30;QATrainer;ANSWER;30;1;80;4
+TinaBob;ANSWER;2;QATrainer;ANSWER;2;1;81;4
+TinaBob;ANSWER;0;QATrainer;ANSWER;0;1;82;4
+TinaBob;ANSWER;0;QATrainer;ANSWER;0;1;83;4
+TinaBob;ANSWER;16;QATrainer;ANSWER;16;1;84;4
+TinaBob;ANSWER;0.75;QATrainer;ANSWER;0;1;85;4
+TinaBob;ANSWER;50;QATrainer;ANSWER;50;1;86;4
+TinaBob;ANSWER;0.7777777778;QATrainer;ANSWER;0;1;87;4
+TinaBob;ANSWER;11;QATrainer;ANSWER;11;1;88;4
+TinaBob;ANSWER;-7;QATrainer;ANSWER;-7;1;89;4
+TinaBob;ANSWER;-3;QATrainer;ANSWER;-3;1;90;4
+TinaBob;ANSWER;0.7142857143;QATrainer;ANSWER;0;1;91;4
+TinaBob;ANSWER;4;QATrainer;ANSWER;4;1;92;4
+TinaBob;ANSWER;0.5;QATrainer;ANSWER;0;1;93;4
+TinaBob;ANSWER;20;QATrainer;ANSWER;20;1;94;4
+TinaBob;ANSWER;27;QATrainer;ANSWER;27;1;95;4
+TinaBob;ANSWER;11;QATrainer;ANSWER;11;1;96;4
+TinaBob;ANSWER;1.75;QATrainer;ANSWER;1;1;97;4
+TinaBob;ANSWER;3;QATrainer;ANSWER;3;1;98;4
+TinaBob;ANSWER;1;QATrainer;ANSWER;1;1;99;4
+TinaBob;ANSWER;0.8888888889;QATrainer;ANSWER;0;1;100;4
